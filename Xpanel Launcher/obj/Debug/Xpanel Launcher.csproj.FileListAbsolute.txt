@@ -1,0 +1,48 @@
+C:\Users\Utilisateur\source\repos\Xpanel Launcher\Xpanel Launcher\bin\Debug\Xpanel Launcher.exe.config
+C:\Users\Utilisateur\source\repos\Xpanel Launcher\Xpanel Launcher\bin\Debug\Xpanel Launcher.exe
+C:\Users\Utilisateur\source\repos\Xpanel Launcher\Xpanel Launcher\bin\Debug\Xpanel Launcher.pdb
+C:\Users\Utilisateur\source\repos\Xpanel Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\Xpanel Launcher\Xpanel Launcher\obj\Debug\Xpanel_Launcher.Form1.resources
+C:\Users\Utilisateur\source\repos\Xpanel Launcher\Xpanel Launcher\obj\Debug\Xpanel_Launcher.Properties.Resources.resources
+C:\Users\Utilisateur\source\repos\Xpanel Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.csproj.GenerateResource.cache
+C:\Users\Utilisateur\source\repos\Xpanel Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\Xpanel Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.exe
+C:\Users\Utilisateur\source\repos\Xpanel Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.pdb
+C:\Users\ATREMBLAY\Documents\Visual Studio 2008\Projects VS2008\Xpanel Launcher\Xpanel Launcher\Xpanel Launcher\bin\Debug\Xpanel Launcher.exe.config
+C:\Users\ATREMBLAY\Documents\Visual Studio 2008\Projects VS2008\Xpanel Launcher\Xpanel Launcher\Xpanel Launcher\bin\Debug\Xpanel Launcher.exe
+C:\Users\ATREMBLAY\Documents\Visual Studio 2008\Projects VS2008\Xpanel Launcher\Xpanel Launcher\Xpanel Launcher\bin\Debug\Xpanel Launcher.pdb
+C:\Users\ATREMBLAY\Documents\Visual Studio 2008\Projects VS2008\Xpanel Launcher\Xpanel Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.csprojAssemblyReference.cache
+C:\Users\ATREMBLAY\Documents\Visual Studio 2008\Projects VS2008\Xpanel Launcher\Xpanel Launcher\Xpanel Launcher\obj\Debug\Xpanel_Launcher.Form1.resources
+C:\Users\ATREMBLAY\Documents\Visual Studio 2008\Projects VS2008\Xpanel Launcher\Xpanel Launcher\Xpanel Launcher\obj\Debug\Xpanel_Launcher.Properties.Resources.resources
+C:\Users\ATREMBLAY\Documents\Visual Studio 2008\Projects VS2008\Xpanel Launcher\Xpanel Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.csproj.GenerateResource.cache
+C:\Users\ATREMBLAY\Documents\Visual Studio 2008\Projects VS2008\Xpanel Launcher\Xpanel Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.exe
+C:\Users\ATREMBLAY\Documents\Visual Studio 2008\Projects VS2008\Xpanel Launcher\Xpanel Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.pdb
+C:\Users\ATREMBLAY\Documents\Visual Studio 2008\Projects VS2008\Xpanel Launcher\Xpanel Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.csproj.CoreCompileInputs.cache
+C:\Users\ATREMBLAY\Documents\Visual Studio 2008\Projects VS2008\Xpanel Launcher\Xpanel Launcher\Xpanel Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ATREMBLAY\Documents\Visual Studio 2008\Projects VS2008\Xpanel Launcher\Xpanel Launcher\Xpanel Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ATREMBLAY\Documents\Visual Studio 2008\Projects VS2008\Xpanel Launcher\Xpanel Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.csproj.CopyComplete
+C:\Users\alain\Documents\GitHub\Xpanel-Launcher\Xpanel Launcher\bin\Debug\Xpanel Launcher.exe.config
+C:\Users\alain\Documents\GitHub\Xpanel-Launcher\Xpanel Launcher\bin\Debug\Xpanel Launcher.exe
+C:\Users\alain\Documents\GitHub\Xpanel-Launcher\Xpanel Launcher\bin\Debug\Xpanel Launcher.pdb
+C:\Users\alain\Documents\GitHub\Xpanel-Launcher\Xpanel Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alain\Documents\GitHub\Xpanel-Launcher\Xpanel Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alain\Documents\GitHub\Xpanel-Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.csproj.AssemblyReference.cache
+C:\Users\alain\Documents\GitHub\Xpanel-Launcher\Xpanel Launcher\obj\Debug\Xpanel_Launcher.Form1.resources
+C:\Users\alain\Documents\GitHub\Xpanel-Launcher\Xpanel Launcher\obj\Debug\Xpanel_Launcher.Properties.Resources.resources
+C:\Users\alain\Documents\GitHub\Xpanel-Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.csproj.GenerateResource.cache
+C:\Users\alain\Documents\GitHub\Xpanel-Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.csproj.CoreCompileInputs.cache
+C:\Users\alain\Documents\GitHub\Xpanel-Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.exe
+C:\Users\alain\Documents\GitHub\Xpanel-Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.pdb
+C:\Users\ATREMBLAY\source\repos\Xpanel-Launcher\Xpanel Launcher\bin\Debug\Xpanel Launcher.exe.config
+C:\Users\ATREMBLAY\source\repos\Xpanel-Launcher\Xpanel Launcher\bin\Debug\Xpanel Launcher.exe
+C:\Users\ATREMBLAY\source\repos\Xpanel-Launcher\Xpanel Launcher\bin\Debug\Xpanel Launcher.pdb
+C:\Users\ATREMBLAY\source\repos\Xpanel-Launcher\Xpanel Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ATREMBLAY\source\repos\Xpanel-Launcher\Xpanel Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ATREMBLAY\source\repos\Xpanel-Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.csproj.AssemblyReference.cache
+C:\Users\ATREMBLAY\source\repos\Xpanel-Launcher\Xpanel Launcher\obj\Debug\Xpanel_Launcher.Form1.resources
+C:\Users\ATREMBLAY\source\repos\Xpanel-Launcher\Xpanel Launcher\obj\Debug\Xpanel_Launcher.Properties.Resources.resources
+C:\Users\ATREMBLAY\source\repos\Xpanel-Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.csproj.GenerateResource.cache
+C:\Users\ATREMBLAY\source\repos\Xpanel-Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.csproj.CoreCompileInputs.cache
+C:\Users\ATREMBLAY\source\repos\Xpanel-Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.exe
+C:\Users\ATREMBLAY\source\repos\Xpanel-Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.pdb
+C:\Users\ATREMBLAY\source\repos\Xpanel-Launcher\Xpanel Launcher\obj\Debug\Xpanel Launcher.csproj.CopyComplete

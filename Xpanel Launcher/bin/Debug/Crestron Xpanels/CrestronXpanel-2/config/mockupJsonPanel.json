@@ -1,0 +1,405 @@
+[
+{
+	"__comment":"Take care when using panel names that are a substring of other panel names.  TSW-560 Must come before TSW-560P, for example.",
+	"panels" : ["TSW-750", "TSW-752"],
+	"dpi" : 133, 
+	"graphics" : {"white" : "TSW-750-W-S.png", "black" : "TSW-750-B-S.png" }, 
+	"dimensions" : { "units" : "in", "width" : 7.52, "height" : 4.7 },
+	"displayList" : {
+		"resolution" : { "width" : 800, "height" : 480 },
+		"location" : { "units" : "in", "left": 0.555, "top" : 0.555, "width" : 6.0, "height" : 3.6 }
+	},
+	"buttons" : [
+		{ "hbid" : 1, "location" : { "units" : "in", "left": 6.625, "top" : 0.375, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 1} },
+		{ "hbid" : 2, "location" : { "units" : "in", "left": 6.625, "top" : 1.125, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 2} },
+		{ "hbid" : 3, "location" : { "units" : "in", "left": 6.625, "top" : 1.875, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 3} },
+		{ "hbid" : 4, "location" : { "units" : "in", "left": 6.625, "top" : 2.625, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 4} },
+		{ "hbid" : 5, "location" : { "units" : "in", "left": 6.625, "top" : 3.375, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 5} }
+	]
+},
+{
+	"panels" : ["TSW-760"],
+	"dpi" : 171, 
+	"graphics" : {"white" : "TSW-760-W-S.png", "black" : "TSW-760-B-S.png"}, 
+	"dimensions" : { "units" : "in", "width" : 7.42, "height" : 4.64 },
+	"displayList" : {
+		"resolution" : { "width" : 1024, "height" : 600 },
+		"location" : { "units" : "in", "left": 0.555, "top" : 0.584, "width" : 6.02, "height" : 3.51 }
+	},
+	"buttons" : [
+		{ "hbid" : 1, "location" : { "units" : "in", "left": 6.602, "top" : 0.380, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 1} },
+		{ "hbid" : 2, "location" : { "units" : "in", "left": 6.602, "top" : 1.170, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 2} },
+		{ "hbid" : 3, "location" : { "units" : "in", "left": 6.602, "top" : 1.960, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 3} },
+		{ "hbid" : 4, "location" : { "units" : "in", "left": 6.602, "top" : 2.748, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 4} },
+		{ "hbid" : 5, "location" : { "units" : "in", "left": 6.602, "top" : 3.538, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 5} }
+	]
+},
+{
+	"panels" : ["TSW-1050", "TSW-1052"],
+	"dpi" : 149, 
+	"graphics" : {"white" : "TSW-1050-W-S.png", "black" : "TSW-1050-B-S.png" }, 
+	"dimensions" : { "units" : "in", "width" : 10.11, "height" : 6.46 },
+	"displayList" : {
+		"resolution" : { "width" : 1280, "height" : 800 },
+		"location" : { "units" : "in", "left": 0.533, "top" : 0.533, "width" : 8.589, "height" : 5.389 }
+	},
+	"buttons" : [
+		{ "hbid" : 1, "location" : { "units" : "in", "left": 9.24, "top" : 0.844, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 1} },
+		{ "hbid" : 2, "location" : { "units" : "in", "left": 9.24, "top" : 1.844, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 2} },
+		{ "hbid" : 3, "location" : { "units" : "in", "left": 9.24, "top" : 2.844, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 3} },
+		{ "hbid" : 4, "location" : { "units" : "in", "left": 9.24, "top" : 3.844, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 4} },
+		{ "hbid" : 5, "location" : { "units" : "in", "left": 9.24, "top" : 4.844, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 5} }
+	]
+},
+{
+	"panels" : ["TSW-1060"],
+	"dpi" : 149, 
+	"graphics" : {"white" : "TSW-1060-W-S.png", "black" : "TSW-1060-B-S.png"}, 
+	"dimensions" : { "units" : "in", "width" : 10.11, "height" : 6.46 },
+	"displayList" : {
+		"resolution" : { "width" : 1280, "height" : 800 },
+		"location" : { "units" : "in", "left": 0.533, "top" : 0.533, "width" : 8.589, "height" : 5.389 }
+	},
+	"buttons" : [
+		{ "hbid" : 1, "location" : { "units" : "in", "left": 9.24, "top" : 0.844, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 1} },
+		{ "hbid" : 2, "location" : { "units" : "in", "left": 9.24, "top" : 1.844, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 2} },
+		{ "hbid" : 3, "location" : { "units" : "in", "left": 9.24, "top" : 2.844, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 3} },
+		{ "hbid" : 4, "location" : { "units" : "in", "left": 9.24, "top" : 3.844, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 4} },
+		{ "hbid" : 5, "location" : { "units" : "in", "left": 9.24, "top" : 4.844, "width" : 0.75, "height" : 0.75 }, "subslotted" : {"subslot" : 1, "join": 5} }
+	]
+},
+{
+	"panels" : ["TSW-550", "TSW-552", "FT-TSC600", "FT-TS600"],
+	"dpi" : 187, 
+	"graphics" : {"white" : "TSW-550-W-S.png", "black" : "TSW-550-B-S.png" }, 
+	"dimensions" : { "units" : "in", "width" : 5.65, "height" : 3.649 },
+	"displayList" : {
+		"resolution" : { "width" : 800, "height" : 480 },
+		"location" : { "units" : "in", "left": 0.54, "top" : 0.45, "width" : 4.283 , "height" : 2.65 }
+	}, 
+	"buttons" : [
+		{ "hbid" : 1, "location" : { "units" : "in", "left": 5, "top" : 0.505, "width" : 0.47, "height" : 0.47 }, "subslotted" : {"subslot" : 1, "join": 1} },
+		{ "hbid" : 2, "location" : { "units" : "in", "left": 5, "top" : 1.005, "width" : 0.47, "height" : 0.47 }, "subslotted" : {"subslot" : 1, "join": 2} },
+		{ "hbid" : 3, "location" : { "units" : "in", "left": 5, "top" : 1.505, "width" : 0.47, "height" : 0.47 }, "subslotted" : {"subslot" : 1, "join": 3} },
+		{ "hbid" : 4, "location" : { "units" : "in", "left": 5, "top" : 2.005, "width" : 0.47, "height" : 0.47 }, "subslotted" : {"subslot" : 1, "join": 4} },
+		{ "hbid" : 5, "location" : { "units" : "in", "left": 5, "top" : 2.505, "width" : 0.47, "height" : 0.47 }, "subslotted" : {"subslot" : 1, "join": 5} }
+	]
+},
+{
+	"panels" : ["TSW-560"],
+	"dpi" : 225, 
+	"graphics" : {"white" : "TSW-560-W-S.png", "black" : "TSW-560-B-S.png"}, 
+	"dimensions" : { "units" : "in", "width" : 5.556, "height" : 3.396 },
+	"displayList" : {
+		"resolution" : { "width" : 960, "height" : 540 },
+		"location" : { "units" : "in", "left": 0.48, "top" : 0.49, "width" : 4.3 , "height" : 2.4 }
+	}, 
+	"buttons" : [
+		{ "hbid" : 1, "location" : { "units" : "in", "left": 4.90, "top" : 0.400, "width" : 0.5, "height" : 0.5 }, "subslotted" : {"subslot" : 1, "join": 1} },
+		{ "hbid" : 2, "location" : { "units" : "in", "left": 4.90, "top" : 0.920, "width" : 0.5, "height" : 0.5 }, "subslotted" : {"subslot" : 1, "join": 2} },
+		{ "hbid" : 3, "location" : { "units" : "in", "left": 4.90, "top" : 1.440, "width" : 0.5, "height" : 0.5 }, "subslotted" : {"subslot" : 1, "join": 3} },
+		{ "hbid" : 4, "location" : { "units" : "in", "left": 4.90, "top" : 1.960, "width" : 0.5, "height" : 0.5 }, "subslotted" : {"subslot" : 1, "join": 4} },
+		{ "hbid" : 5, "location" : { "units" : "in", "left": 4.90, "top" : 2.480, "width" : 0.5, "height" : 0.5 }, "subslotted" : {"subslot" : 1, "join": 5} }
+	]
+},
+{
+	"panels" : ["TSW-560P"],
+	"dpi" : 225, 
+	"graphics" : {"white" : "TSW-560P-W-S.png", "black" : "TSW-560P-B-S.png"}, 
+	"dimensions" : { "units" : "in", "width" : 3.396, "height" : 5.556 },
+	"displayList" : {
+		"resolution" : { "width" : 540, "height" : 960 },
+		"location" : { "units" : "in", "left": 0.51, "top" : 0.48, "width" : 2.4 , "height" : 4.3 }
+	}, 
+	"buttons" : [
+		{ "hbid" : 1, "location" : { "units" : "in", "left": 0.375, "top" : 4.90, "width" : 0.5, "height" : 0.5 }, "subslotted" : {"subslot" : 1, "join": 1} },
+		{ "hbid" : 2, "location" : { "units" : "in", "left": 0.923, "top" : 4.90, "width" : 0.5, "height" : 0.5 }, "subslotted" : {"subslot" : 1, "join": 2} },
+		{ "hbid" : 3, "location" : { "units" : "in", "left": 1.452, "top" : 4.90, "width" : 0.5, "height" : 0.5 }, "subslotted" : {"subslot" : 1, "join": 3} },
+		{ "hbid" : 4, "location" : { "units" : "in", "left": 1.981, "top" : 4.90, "width" : 0.5, "height" : 0.5 }, "subslotted" : {"subslot" : 1, "join": 4} },
+		{ "hbid" : 5, "location" : { "units" : "in", "left": 2.519, "top" : 4.90, "width" : 0.5, "height" : 0.5 }, "subslotted" : {"subslot" : 1, "join": 5} }
+	]
+},
+{
+	"panels" : ["TSR-302"],
+	"dpi" : 143, 
+	"graphics" : {"black" : "TSR-302-S.png"}, 
+	"dimensions" : { "units" : "in", "width" : 2.34, "height" : 10.08 },
+	"displayList" : {
+		"resolution" : { "width" : 240, "height" : 320 },
+		"location" : { "units" : "in", "left": 0.293, "top" : 0.657, "width" : 1.743 , "height" : 2.322 }
+	}, 
+	"buttons" : [
+		{ "hbid" : 1, "location" : { "units" : "in", "left": 0.383, "top" : 3.704, "width" : 0.543, "height" : 0.543 }, "subslotted" : {"subslot" : 1, "join": 1} },
+		{ "hbid" : 2, "location" : { "units" : "in", "left": 1.477, "top" : 3.704, "width" : 0.543, "height" : 0.543 }, "subslotted" : {"subslot" : 1, "join": 2} },
+		
+		{ "hbid" : 3, "location" : { "units" : "in", "left": 0.334, "top" : 4.298, "width" : 0.570, "height" : 0.204 }, "subslotted" : {"subslot" : 1, "join": 3} },
+		{ "hbid" : 4, "location" : { "units" : "in", "left": 0.904, "top" : 4.298, "width" : 0.570, "height" : 0.204 }, "subslotted" : {"subslot" : 1, "join": 4} },
+		{ "hbid" : 5, "location" : { "units" : "in", "left": 1.473, "top" : 4.298, "width" : 0.570, "height" : 0.204 }, "subslotted" : {"subslot" : 1, "join": 5} },
+		
+		{ "hbid" : 6, "location" : { "units" : "in", "left": 0.342, "top" : 4.624, "width" : 0.195, "height" : 0.460 }, "subslotted" : {"subslot" : 1, "join": 6} },
+		{ "hbid" : 7, "location" : { "units" : "in", "left": 0.342, "top" : 5.084, "width" : 0.195, "height" : 0.460 }, "subslotted" : {"subslot" : 1, "join": 7} },
+		
+		{ "hbid" : 8, "location" : { "units" : "in", "left": 0.871, "top" : 4.615, "width" : 0.570, "height" : 0.269 }, "subslotted" : {"subslot" : 1, "join": 8} },
+		{ "hbid" : 9, "location" : { "units" : "in", "left": 0.871, "top" : 5.276, "width" : 0.570, "height" : 0.269 }, "subslotted" : {"subslot" : 1, "join": 9} },
+		{ "hbid" : 10, "location" : { "units" : "in", "left": 0.708, "top" : 4.803, "width" : 0.301, "height" : 0.562 }, "subslotted" : {"subslot" : 1, "join": 10} },
+		{ "hbid" : 11, "location" : { "units" : "in", "left": 1.392, "top" : 4.803, "width" : 0.301, "height" : 0.562 }, "subslotted" : {"subslot" : 1, "join": 11} },
+		{ "hbid" : 12, "location" : { "units" : "in", "left": 0.936, "top" : 4.884, "width" : 0.464, "height" : 0.407 }, "subslotted" : {"subslot" : 1, "join": 12} },
+		
+		{ "hbid" : 13, "location" : { "units" : "in", "left": 1.800, "top" : 4.624, "width" : 0.195, "height" : 0.46 }, "subslotted" : {"subslot" : 1, "join": 13} },
+		{ "hbid" : 14, "location" : { "units" : "in", "left": 1.800, "top" : 5.084, "width" : 0.195, "height" : 0.46 }, "subslotted" : {"subslot" : 1, "join": 14} },
+		
+		{ "hbid" : 15, "location" : { "units" : "in", "left": 0.334, "top" : 5.706, "width" : 0.570, "height" : 0.204 }, "subslotted" : {"subslot" : 1, "join": 15} },
+		{ "hbid" : 16, "location" : { "units" : "in", "left": 0.904, "top" : 5.706, "width" : 0.570, "height" : 0.204 }, "subslotted" : {"subslot" : 1, "join": 16} },
+		{ "hbid" : 17, "location" : { "units" : "in", "left": 1.473, "top" : 5.706, "width" : 0.570, "height" : 0.204 }, "subslotted" : {"subslot" : 1, "join": 17} },
+		
+		{ "hbid" : 18, "location" : { "units" : "in", "left": 1.009, "top" : 6.097, "width" : 0.350, "height" : 0.342 }, "subslotted" : {"subslot" : 1, "join": 18} },
+		{ "hbid" : 19, "location" : { "units" : "in", "left": 1.009, "top" : 6.439, "width" : 0.350, "height" : 0.342 }, "subslotted" : {"subslot" : 1, "join": 19} },
+		
+		{ "hbid" : 20, "location" : { "units" : "in", "left": 0.334, "top" : 6.244, "width" : 0.570, "height" : 0.204 }, "subslotted" : {"subslot" : 1, "join": 20} },
+		
+		{ "hbid" : 21, "location" : { "units" : "in", "left": 1.473, "top" : 6.244, "width" : 0.570, "height" : 0.397 }, "subslotted" : {"subslot" : 1, "join": 21} },
+		
+		{ "hbid" : 22, "location" : { "units" : "in", "left": 0.334, "top" : 6.576, "width" : 0.570, "height" : 0.397 }, "subslotted" : {"subslot" : 1, "join": 22} },
+		
+		{ "hbid" : 23, "location" : { "units" : "in", "left": 1.473, "top" : 6.576, "width" : 0.570, "height" : 0.397 }, "subslotted" : {"subslot" : 1, "join": 23} },
+		
+		{ "hbid" : 24, "location" : { "units" : "in", "left": 0.334, "top" : 6.894, "width" : 0.570, "height" : 0.397 }, "subslotted" : {"subslot" : 1, "join": 24} },
+		{ "hbid" : 25, "location" : { "units" : "in", "left": 1.473, "top" : 6.894, "width" : 0.570, "height" : 0.397 }, "subslotted" : {"subslot" : 1, "join": 25} },
+		{ "hbid" : 26, "location" : { "units" : "in", "left": 0.904, "top" : 6.894, "width" : 0.570, "height" : 0.397 }, "subslotted" : {"subslot" : 1, "join": 26} },
+		
+		{ "hbid" : 27, "location" : { "units" : "in", "left": 0.334, "top" : 7.407, "width" : 0.570, "height" : 0.381 }, "subslotted" : {"subslot" : 1, "join": 27} },
+		{ "hbid" : 28, "location" : { "units" : "in", "left": 0.904, "top" : 7.407, "width" : 0.570, "height" : 0.381 }, "subslotted" : {"subslot" : 1, "join": 28} },
+		{ "hbid" : 29, "location" : { "units" : "in", "left": 1.473, "top" : 7.407, "width" : 0.570, "height" : 0.381 }, "subslotted" : {"subslot" : 1, "join": 29} },
+		
+		{ "hbid" : 30, "location" : { "units" : "in", "left": 0.334, "top" : 7.709, "width" : 0.570, "height" : 0.381 }, "subslotted" : {"subslot" : 1, "join": 30} },
+		{ "hbid" : 31, "location" : { "units" : "in", "left": 0.904, "top" : 7.709, "width" : 0.570, "height" : 0.381 }, "subslotted" : {"subslot" : 1, "join": 31} },
+		{ "hbid" : 32, "location" : { "units" : "in", "left": 1.473, "top" : 7.709, "width" : 0.570, "height" : 0.381 }, "subslotted" : {"subslot" : 1, "join": 32} },
+		
+		{ "hbid" : 33, "location" : { "units" : "in", "left": 0.334, "top" : 7.977, "width" : 0.570, "height" : 0.381 }, "subslotted" : {"subslot" : 1, "join": 33} },
+		{ "hbid" : 34, "location" : { "units" : "in", "left": 0.904, "top" : 7.977, "width" : 0.570, "height" : 0.381 }, "subslotted" : {"subslot" : 1, "join": 34} },
+		{ "hbid" : 35, "location" : { "units" : "in", "left": 1.473, "top" : 7.977, "width" : 0.570, "height" : 0.381 }, "subslotted" : {"subslot" : 1, "join": 35} },
+		
+		{ "hbid" : 36, "location" : { "units" : "in", "left": 0.904, "top" : 8.278, "width" : 0.570, "height" : 0.381 }, "subslotted" : {"subslot" : 1, "join": 36} },
+		{ "hbid" : 37, "location" : { "units" : "in", "left": 0.334, "top" : 8.278, "width" : 0.570, "height" : 0.381 }, "subslotted" : {"subslot" : 1, "join": 37} },
+		{ "hbid" : 38, "location" : { "units" : "in", "left": 1.473, "top" : 8.278, "width" : 0.570, "height" : 0.381 }, "subslotted" : {"subslot" : 1, "join": 38} },
+		
+		{ "hbid" : 39, "location" : { "units" : "in", "left": 0.334, "top" : 8.689, "width" : 0.399, "height" : 0.381 }, "subslotted" : {"subslot" : 1, "join": 39} },
+		{ "hbid" : 40, "location" : { "units" : "in", "left": 0.755, "top" : 8.689, "width" : 0.399, "height" : 0.381 }, "subslotted" : {"subslot" : 1, "join": 40} },
+		{ "hbid" : 41, "location" : { "units" : "in", "left": 1.188, "top" : 8.689, "width" : 0.399, "height" : 0.381 }, "subslotted" : {"subslot" : 1, "join": 41} },
+		{ "hbid" : 42, "location" : { "units" : "in", "left": 1.622, "top" : 8.689, "width" : 0.399, "height" : 0.381 }, "subslotted" : {"subslot" : 1, "join": 42} }
+	]
+},
+{
+	"panels" : ["TST-600", "TST-602"],
+	"dpi" : 140, 
+	"graphics" : {"white" : "TST-600-W-S.png", "black" : "TST-600-B-S.png" }, 
+	"dimensions" : { "units" : "in", "width" : 8.08, "height" : 5.1 },
+	"displayList" : {
+		"resolution" : { "width" : 640, "height" : 480 },
+		"location" : { "units" : "in", "left": 1.73, "top" : 0.818, "width" : 4.62, "height" : 3.464 }
+	},
+	"buttons" : [
+		{ "hbid" : 1, "location" : { "units" : "in", "left": 0.983, "top" : 0.881, "width" : 0.65, "height" : 0.453 }, "subslotted" : {"subslot" : 1, "join": 1} },
+		{ "hbid" : 2, "location" : { "units" : "in", "left": 0.983, "top" : 1.396, "width" : 0.65, "height" : 0.453 }, "subslotted" : {"subslot" : 1, "join": 2} },
+		
+		{ "hbid" : 3, "location" : { "units" : "in", "left": 0.503, "top" : 2.05, "width" : 0.971, "height" : 0.453 }, "subslotted" : {"subslot" : 1, "join": 3} },
+		{ "hbid" : 4, "location" : { "units" : "in", "left": 0.503, "top" : 2.597, "width" : 0.971, "height" : 0.453 }, "subslotted" : {"subslot" : 1, "join": 4} },
+		
+		{ "hbid" : 5, "location" : { "units" : "in", "left": 0.983, "top" : 3.251, "width" : 0.65, "height" : 0.453 }, "subslotted" : {"subslot" : 1, "join": 5} },
+		{ "hbid" : 6, "location" : { "units" : "in", "left": 0.983, "top" : 3.766, "width" : 0.65, "height" : 0.453 }, "subslotted" : {"subslot" : 1, "join": 6} },
+		
+		{ "hbid" : 7, "location" : { "units" : "in", "left": 6.451, "top" : 0.881, "width" : 0.65, "height" : 0.453 }, "subslotted" : {"subslot" : 1, "join": 7} },
+		{ "hbid" : 8, "location" : { "units" : "in", "left": 6.451, "top" : 1.396, "width" : 0.65, "height" : 0.453 }, "subslotted" : {"subslot" : 1, "join": 8} },
+		
+		{ "hbid" : 9, "location" : { "units" : "in", "left": 6.804, "top" : 2.05, "width" : 0.572, "height" : 0.167 }, "subslotted" : {"subslot" : 1, "join": 9} },
+		{ "hbid" : 10, "location" : { "units" : "in", "left": 6.804, "top" : 2.881, "width" : 0.572, "height" : 0.167 }, "subslotted" : {"subslot" : 1, "join": 10} },
+		{ "hbid" : 11, "location" : { "units" : "in", "left": 6.593, "top" : 2.264, "width" : 0.167, "height" : 0.572 }, "subslotted" : {"subslot" : 1, "join": 11} },
+		{ "hbid" : 12, "location" : { "units" : "in", "left": 7.422, "top" : 2.264, "width" : 0.167, "height" : 0.572 }, "subslotted" : {"subslot" : 1, "join": 12} },
+		{ "hbid" : 13, "location" : { "units" : "in", "left": 6.968, "top" : 2.427, "width" : 0.25, "height" : 0.25 }, "subslotted" : {"subslot" : 1, "join": 13} },
+		
+		{ "hbid" : 14, "location" : { "units" : "in", "left": 6.451, "top" : 3.251, "width" : 0.65, "height" : 0.453 }, "subslotted" : {"subslot" : 1, "join": 14} },
+		{ "hbid" : 15, "location" : { "units" : "in", "left": 6.451, "top" : 3.766, "width" : 0.65, "height" : 0.453 }, "subslotted" : {"subslot" : 1, "join": 15} },
+		
+		{ "hbid" : 16, "location" : { "units" : "in", "left": 0.983, "top" : 0, "width" : 0.65, "height" : 0.453 }, "subslotted" : {"subslot" : 1, "join": 16} },
+		{ "hbid" : 17, "location" : { "units" : "in", "left": 6.451, "top" : 0, "width" : 0.65, "height" : 0.453 }, "subslotted" : {"subslot" : 1, "join": 17} }
+	]
+},
+{
+	"panels" : ["TPMC-V12 Core 3 UI"],
+	"dpi" : 83, 
+	"graphics" : {"white" : "V-12-W-S.png", "black" : "V-12-B-S.png" }, 
+	"dimensions" : { "units" : "in", "width" : 11.72, "height" : 10.2 },
+	"displayList" : {
+		"resolution" : { "width" : 800, "height" : 600 },
+		"location" : { "units" : "in", "left": 0.991, "top" : 0.993, "width" : 9.732, "height" : 7.31 }
+	},
+	"buttons" : [
+		{ "hbid" : 1, "location" : { "units" : "in", "left": 5.685, "top" : 9.531, "width" : 0.347, "height" : 0.347 }, "subslotted" : {"subslot" : 1, "join": 1} }
+	]
+},
+{
+	"panels" : ["TPMC-V15 Core 3 UI"],
+	"dpi" : 97, 
+	"graphics" : {"white" : "V-15-W-S.png", "black" : "V-15-B-S.png" }, 
+	"dimensions" : { "units" : "in", "width" : 14.19, "height" : 10.22 },
+	"displayList" : {
+		"resolution" : { "width" : 1280, "height" : 768 },
+		"location" : { "units" : "in", "left": 1.031, "top" : 1.022, "width" : 12.129, "height" : 7.254 }
+	},
+	"buttons" : [
+		{ "hbid" : 1, "location" : { "units" : "in", "left": 6.956, "top" : 9.5663, "width" : 0.347, "height" : 0.347 }, "subslotted" : {"subslot" : 1, "join": 1} }
+	]
+},
+{
+	"panels" : ["TPMC-4SM Core 3 UI"],
+	"dpi" : 216, 
+	"graphics" : {"white" : "TPMC-4SM-W-S.png", "black" : "TPMC-4SM-B-S.png" }, 
+	"dimensions" : { "units" : "in", "width" : 6.193, "height" : 3.466 },
+	"displayList" : {
+		"resolution" : { "width" : 800, "height" : 480 },
+		"location" : { "units" : "in", "left": 1.181, "top" : 0.598, "width" : 3.832, "height" : 2.271 }
+	},
+	"buttons" : [
+		{ "hbid" : 1, "location" : { "units" : "in", "left": 0.193, "top" : 0.635, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 1} },
+		{ "hbid" : 2, "location" : { "units" : "in", "left": 0.193, "top" : 1.135, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 2} },
+		{ "hbid" : 3, "location" : { "units" : "in", "left": 0.193, "top" : 1.636, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 3} },
+		{ "hbid" : 4, "location" : { "units" : "in", "left": 0.193, "top" : 2.136, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 4} },
+		{ "hbid" : 5, "location" : { "units" : "in", "left": 0.193, "top" : 2.636, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 5} },
+		
+		{ "hbid" : 6, "location" : { "units" : "in", "left": 5.367, "top" : 0.635, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 6} },
+		{ "hbid" : 7, "location" : { "units" : "in", "left": 5.367, "top" : 1.135, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 7} },
+		{ "hbid" : 8, "location" : { "units" : "in", "left": 5.367, "top" : 1.636, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 8} },
+		{ "hbid" : 9, "location" : { "units" : "in", "left": 5.367, "top" : 2.136, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 9} },
+		{ "hbid" : 10, "location" : { "units" : "in", "left": 5.367, "top" : 2.636, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 10} }
+	]
+},
+{
+	"panels" : ["TPMC-4SMD Core 3 UI"],
+	"dpi" : 216, 
+	"graphics" : {"white" : "TPMC-4SMD-W-S.png", "black" : "TPMC-4SMD-B-S.png" }, 
+	"dimensions" : { "units" : "in", "width" : 6.193, "height" : 3.466 },
+	"displayList" : {
+		"resolution" : { "width" : 800, "height" : 480 },
+		"location" : { "units" : "in", "left": 1.181, "top" : 0.598, "width" : 3.832, "height" : 2.271 }
+	},
+	"buttons" : [
+		{ "hbid" : 1, "location" : { "units" : "in", "left": 0.193, "top" : 0.635, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 1} },
+		{ "hbid" : 2, "location" : { "units" : "in", "left": 0.193, "top" : 1.135, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 2} },
+		{ "hbid" : 3, "location" : { "units" : "in", "left": 0.193, "top" : 1.636, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 3} },
+		{ "hbid" : 4, "location" : { "units" : "in", "left": 0.193, "top" : 2.136, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 4} },
+		{ "hbid" : 5, "location" : { "units" : "in", "left": 0.193, "top" : 2.636, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 5} },
+		
+		{ "hbid" : 6, "location" : { "units" : "in", "left": 5.367, "top" : 0.635, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 6} },
+		{ "hbid" : 7, "location" : { "units" : "in", "left": 5.367, "top" : 1.135, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 7} },
+		{ "hbid" : 8, "location" : { "units" : "in", "left": 5.367, "top" : 1.636, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 8} },
+		{ "hbid" : 9, "location" : { "units" : "in", "left": 5.367, "top" : 2.136, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 9} },
+		{ "hbid" : 10, "location" : { "units" : "in", "left": 5.367, "top" : 2.636, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 10} }
+	]
+},
+{
+	"panels" : ["TPMC-4SMD-FD Core 3 UI"],
+	"dpi" : 216, 
+	"graphics" : {"white" : "TPMC-4SMD-FD-W-S.png", "black" : "TPMC-4SMD-FD-B-S.png" }, 
+	"dimensions" : { "units" : "in", "width" : 6.194, "height" : 4.0 },
+	"displayList" : {
+		"resolution" : { "width" : 800, "height" : 480 },
+		"location" : { "units" : "in", "left": 1.181, "top" : 0.598, "width" : 3.832, "height" : 2.271 }
+	},
+	"buttons" : [
+		{ "hbid" : 1, "location" : { "units" : "in", "left": 0.193, "top" : 0.635, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 1} },
+		{ "hbid" : 2, "location" : { "units" : "in", "left": 0.193, "top" : 1.135, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 2} },
+		{ "hbid" : 3, "location" : { "units" : "in", "left": 0.193, "top" : 1.636, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 3} },
+		{ "hbid" : 4, "location" : { "units" : "in", "left": 0.193, "top" : 2.136, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 4} },
+		{ "hbid" : 5, "location" : { "units" : "in", "left": 0.193, "top" : 2.636, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 5} },
+		
+		{ "hbid" : 6, "location" : { "units" : "in", "left": 5.367, "top" : 0.635, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 6} },
+		{ "hbid" : 7, "location" : { "units" : "in", "left": 5.367, "top" : 1.135, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 7} },
+		{ "hbid" : 8, "location" : { "units" : "in", "left": 5.367, "top" : 1.636, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 8} },
+		{ "hbid" : 9, "location" : { "units" : "in", "left": 5.367, "top" : 2.136, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 9} },
+		{ "hbid" : 10, "location" : { "units" : "in", "left": 5.367, "top" : 2.636, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 10} }
+	]
+},
+{
+	"panels" : ["TPMC-4SM-FD Core 3 UI"],
+	"dpi" : 216, 
+	"graphics" : {"white" : "TPMC-4SM-FD-W-S.png", "black" : "TPMC-4SM-FD-B-S.png" }, 
+	"dimensions" : { "units" : "in", "width" : 6.194, "height" : 4.0 },
+	"displayList" : {
+		"resolution" : { "width" : 800, "height" : 480 },
+		"location" : { "units" : "in", "left": 1.181, "top" : 0.598, "width" : 3.832, "height" : 2.271 }
+	},
+	"buttons" : [
+		{ "hbid" : 1, "location" : { "units" : "in", "left": 0.193, "top" : 0.635, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 1} },
+		{ "hbid" : 2, "location" : { "units" : "in", "left": 0.193, "top" : 1.135, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 2} },
+		{ "hbid" : 3, "location" : { "units" : "in", "left": 0.193, "top" : 1.636, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 3} },
+		{ "hbid" : 4, "location" : { "units" : "in", "left": 0.193, "top" : 2.136, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 4} },
+		{ "hbid" : 5, "location" : { "units" : "in", "left": 0.193, "top" : 2.636, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 5} },
+		
+		{ "hbid" : 6, "location" : { "units" : "in", "left": 5.367, "top" : 0.635, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 6} },
+		{ "hbid" : 7, "location" : { "units" : "in", "left": 5.367, "top" : 1.135, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 7} },
+		{ "hbid" : 8, "location" : { "units" : "in", "left": 5.367, "top" : 1.636, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 8} },
+		{ "hbid" : 9, "location" : { "units" : "in", "left": 5.367, "top" : 2.136, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 9} },
+		{ "hbid" : 10, "location" : { "units" : "in", "left": 5.367, "top" : 2.636, "width" : 0.637, "height" : 0.198 }, "subslotted" : {"subslot" : 1, "join": 10} }
+	]
+},
+{
+	"panels" : ["TPMC-8X-GA Core 3 UI"],
+	"dpi" : 119, 
+	"graphics" : {"black" : "TPMC-8X-GA-B-S.png" }, 
+	"dimensions" : { "units" : "in", "width" : 9.69, "height" : 8.21 },
+	"displayList" : {
+		"resolution" : { "width" : 800, "height" : 600 },
+		"location" : { "units" : "in", "left": 1.43, "top" : 1.3, "width" : 6.837, "height" : 5.162 }
+	},
+	"buttons" : [
+		{ "hbid" : 1, "location" : { "units" : "in", "left": 2.08, "top" : 6.687, "width" : 0.671, "height" : 0.0923 }, "subslotted" : {"subslot" : 1, "join": 1} },
+		{ "hbid" : 2, "location" : { "units" : "in", "left": 3.7, "top" : 6.687, "width" : 0.671, "height" : 0.0923 }, "subslotted" : {"subslot" : 1, "join": 2} },
+		{ "hbid" : 3, "location" : { "units" : "in", "left": 5.314, "top" : 6.687, "width" : 0.671, "height" : 0.0923 }, "subslotted" : {"subslot" : 1, "join": 3} },
+		{ "hbid" : 4, "location" : { "units" : "in", "left": 6.687, "top" : 6.687, "width" : 0.671, "height" : 0.0923 }, "subslotted" : {"subslot" : 1, "join": 4} },
+		
+		{ "hbid" : 5, "location" : { "units" : "in", "left": 8.944, "top" : 2.936, "width" : 0.306, "height" : 0.193 }, "subslotted" : {"subslot" : 1, "join": 5} },
+		{ "hbid" : 6, "location" : { "units" : "in", "left": 8.944, "top" : 3.448, "width" : 0.306, "height" : 0.193 }, "subslotted" : {"subslot" : 1, "join": 6} },
+		{ "hbid" : 7, "location" : { "units" : "in", "left": 8.744, "top" : 3.135, "width" : 0.193, "height" : 0.306 }, "subslotted" : {"subslot" : 1, "join": 7} },
+		{ "hbid" : 8, "location" : { "units" : "in", "left": 9.254, "top" : 3.135, "width" : 0.193, "height" : 0.306 }, "subslotted" : {"subslot" : 1, "join": 8} },
+		{ "hbid" : 9, "location" : { "units" : "in", "left": 8.944, "top" : 3.135, "width" : 0.306, "height" : 0.306 }, "subslotted" : {"subslot" : 1, "join": 9} },
+		
+		{ "hbid" : 10, "location" : { "units" : "in", "left": 8.891, "top" : 2.412, "width" : 0.407, "height" : 0.447 }, "subslotted" : {"subslot" : 1, "join": 10} },
+		{ "hbid" : 11, "location" : { "units" : "in", "left": 8.891, "top" : 3.719, "width" : 0.407, "height" : 0.447 }, "subslotted" : {"subslot" : 1, "join": 11} }
+	]
+},
+{
+	"panels" : ["TST-902"],
+	"dpi" : 133, 
+	"graphics" : {"black" : "TST-902-B-S.png" }, 
+	"dimensions" : { "units" : "in", "width" : 10.36, "height" : 6.44 },
+	"displayList" : {
+		"resolution" : { "width" : 1024, "height" : 600 },
+		"location" : { "units" : "in", "left": 1.364, "top" : 1.01, "width" : 7.629, "height" : 4.419 }
+	},
+	"buttons" : [
+	]
+},
+{
+	"panels" : ["TSW-730"],
+	"dpi" : 133, 
+	"graphics" : {"white" : "TSW-730-W-S.png", "black" : "TSW-730-B-S.png" }, 
+	"dimensions" : { "units" : "in", "width" : 8.86, "height" : 4.74 },
+	"displayList" : {
+		"resolution" : { "width" : 800, "height" : 480 },
+		"location" : { "units" : "in", "left": 1.398, "top" : 0.542, "width" : 6.064, "height" : 3.662 }
+	},
+	"buttons" : [
+		{ "hbid" : 1, "location" : { "units" : "in", "left": 0.226, "top" : 0.838, "width" : 0.634, "height" : 0.20 }, "subslotted" : {"subslot" : 1, "join": 1} },
+		{ "hbid" : 2, "location" : { "units" : "in", "left": 0.226, "top" : 1.572, "width" : 0.634, "height" : 0.20 }, "subslotted" : {"subslot" : 1, "join": 2} },
+		{ "hbid" : 3, "location" : { "units" : "in", "left": 0.226, "top" : 2.289, "width" : 0.634, "height" : 0.20 }, "subslotted" : {"subslot" : 1, "join": 3} },
+		{ "hbid" : 4, "location" : { "units" : "in", "left": 0.226, "top" : 2.998, "width" : 0.634, "height" : 0.20 }, "subslotted" : {"subslot" : 1, "join": 4} },
+		{ "hbid" : 5, "location" : { "units" : "in", "left": 0.226, "top" : 3.718, "width" : 0.634, "height" : 0.20 }, "subslotted" : {"subslot" : 1, "join": 5} },
+		
+		{ "hbid" : 6, "location" : { "units" : "in", "left": 8.0, "top" : 0.838, "width" : 0.634, "height" : 0.20 }, "subslotted" : {"subslot" : 1, "join": 6} },
+		{ "hbid" : 7, "location" : { "units" : "in", "left": 8.0, "top" : 1.572, "width" : 0.634, "height" : 0.20 }, "subslotted" : {"subslot" : 1, "join": 7} },
+		{ "hbid" : 8, "location" : { "units" : "in", "left": 8.0, "top" : 2.289, "width" : 0.634, "height" : 0.20 }, "subslotted" : {"subslot" : 1, "join": 8} },
+		{ "hbid" : 9, "location" : { "units" : "in", "left": 8.0, "top" : 2.998, "width" : 0.634, "height" : 0.20 }, "subslotted" : {"subslot" : 1, "join": 9} },
+		{ "hbid" : 10, "location" : { "units" : "in", "left": 8.0, "top" : 3.718, "width" : 0.634, "height" : 0.20 }, "subslotted" : {"subslot" : 1, "join": 10} }
+	]
+}
+]

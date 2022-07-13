@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/3.7">
+  <id>CrestronXpanel-4</id>
+  <versionNumber>2.16.05</versionNumber>
+  <filename>CrestronXPanel</filename>
+  <name>Crestron XPanel</name>
+  <description>XPanel allows the loading of a Crestron certified SmartGraphics touch screen project to be loaded on a desktop computer.</description>
+  <copyright>2010-2020 Crestron Electronics Inc.</copyright>
+  <initialWindow>
+    <title>Crestron XPanel</title>
+    <content>CrestronXPanel.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>true</maximizable>
+    <resizable>false</resizable>
+    <width>800</width>
+    <height>480</height>
+    <aspectRatio>landscape</aspectRatio>
+    <renderMode>auto</renderMode>
+    <autoOrients>false</autoOrients>
+    <fullScreen>true</fullScreen>
+  </initialWindow>
+  <!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+  <installFolder>Crestron/XPanel</installFolder>
+  <programMenuFolder>Crestron/XPanel</programMenuFolder>
+  <supportedProfiles>extendedDesktop desktop mobileDevice tv extendedTV</supportedProfiles>
+  <customUpdateUI>false</customUpdateUI>
+  <icon>
+    <image16x16>icons/xpanel_logo16.png</image16x16>
+    <image32x32>icons/xpanel_logo32.png</image32x32>
+    <image48x48>icons/xpanel_logo48.png</image48x48>
+    <image128x128>icons/xpanel_logo128.png</image128x128>
+    <image36x36>icons/xpanel_logo36.png</image36x36>
+    <image72x72>icons/xpanel_logo72.png</image72x72>
+  </icon>
+  <fileTypes>
+    <fileType>
+      <name>c3p</name>
+      <extension>c3p</extension>
+      <description>Crestron Xpanel Project</description>
+      <contentType>application/octet-stream</contentType>
+      <icon>
+        <image16x16>icons/xpanel_file_icon16.png</image16x16>
+        <image32x32>icons/xpanel_file_icon32.png</image32x32>
+        <image48x48>icons/xpanel_file_icon48.png</image48x48>
+        <image128x128>icons/xpanel_file_icon128.png</image128x128>
+      </icon>
+    </fileType>
+    <fileType>
+      <name>vtz</name>
+      <extension>vtz</extension>
+      <description>Crestron Touchscreen Display List File</description>
+      <contentType>application/octet-stream</contentType>
+      <icon>
+        <image16x16>icons/vtz_16x16.png</image16x16>
+        <image32x32>icons/vtz_32x32.png</image32x32>
+        <image48x48>icons/vtz_48x48.png</image48x48>
+        <image128x128>icons/vtz_128x128.png</image128x128>
+      </icon>
+    </fileType>
+  </fileTypes>
+</application>
