@@ -6,4 +6,5 @@ You can specify the IP Address, Room ID and IP ID before launching. A short name
 When you leave the application, the settings are automatically saved to a file.
 The little "X" in the upper left corner of each line, delete the content of that line.
 
-Portion of the code is based on the work done by Eric Walters ( https://github.com/sentry07/crestron-multiple-xpanel )
+Portion of the code is based on the work done by Eric Walters
+( https://github.com/sentry07/crestron-multiple-xpanel )
