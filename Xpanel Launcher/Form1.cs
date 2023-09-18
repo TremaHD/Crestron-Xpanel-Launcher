@@ -281,7 +281,8 @@ namespace Xpanel_Launcher
                         xnodeIpid.InnerXml = "<![CDATA[" + IpID + "]]>";
 
                         XmlNode xnodeRoomid = xmlDoc.SelectSingleNode("Crestron/Properties/CNXConnection/ProgramInstanceId");
-                        xnodeRoomid.InnerXml = "<![CDATA[" + RoomID.ToUpper() + "]]>";
+                        if(xno != null)
+                            xnodeRoomid.InnerXml = "<![CDATA[" + RoomID.ToUpper() + "]]>";
 
                         XmlNode xnodePort = xmlDoc.SelectSingleNode("Crestron/Properties/CNXConnection/Port");
                         if (EnableSSL)
